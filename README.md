@@ -15,7 +15,7 @@ https://docs.anaconda.com/free/anaconda/install/index.html
 - while in the new folder, clone the repository to your local machine
 
 ```
-git clone https://github.com/primalkriek/modeling-production-capability.git
+git clone https://github.com/primalkriek/numpy-image-manipulation.git
 ```
 
 - install a new conda environment using the following command: 
