@@ -35,7 +35,7 @@ jupyter notebook .
 
 - a browser window should open with your directory structure:
 
-![jupyter notebook directory view](<Screenshot 2023-12-30 at 21.46.01.png>)
+![jupyter notebook folder structure](<Screenshot 2023-12-31 at 00.02.57.png>)
 
 if not, copy one of the lines from the cmd or terminal window, yours should look something like this:
 
@@ -49,5 +49,7 @@ or http://127.0.0.1:8889/?token=ba2a474c4ea9644f29e053daa493124560a438d4b3ae521c
 - start the notebook
 - do not start with run all, but instead run the code cell with to load the required libraries
 - in the code cell as presented in below screenshot input the path to your image
-![input ](image.png)
-- now feel free to run the next cells how you feel like.  Every code cell has options to explore that manipulate the loaded image
+
+![image input field](<Screenshot 2023-12-30 at 23.56.46.png>)
+
+- now feel free to run the next cells how you feel like.  Every code cell has options to explore that manipulate the loaded image, like cropping, zooming, stacking, colouring, ...
