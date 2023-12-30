@@ -47,6 +47,6 @@ confluence NB.ipynb
 geheim.py
 *.pdf
 # *.png
-*.jpeg
+#*.jpeg
 *.jpg
 *.xml
