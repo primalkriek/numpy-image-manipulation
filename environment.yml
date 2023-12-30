@@ -1,0 +1,8 @@
+name: numpy_IM
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - PIL
