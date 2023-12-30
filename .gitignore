@@ -46,7 +46,7 @@ NIM/
 confluence NB.ipynb
 geheim.py
 *.pdf
-# *.png
-#*.jpeg
+ *.png
+*.jpeg
 *.jpg
 *.xml
